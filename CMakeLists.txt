@@ -10,6 +10,7 @@ include_directories(include)
 add_executable(SilentHillDemo 
     src/main.cpp 
     src/Game.cpp
+    src/Player.cpp
 )
 
 target_link_libraries(SilentHillDemo 
