@@ -13,6 +13,9 @@
     <ClCompile Include="C:\Users\mtyar\Documents\silent-hill-demo\src\Window.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\mtyar\Documents\silent-hill-demo\src\GameLoop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\mtyar\Documents\silent-hill-demo\CMakeLists.txt" />
